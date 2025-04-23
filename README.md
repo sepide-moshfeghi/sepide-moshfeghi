@@ -5,8 +5,9 @@ I'm a rookie data analyst passionate about turning raw data into actionable insi
 ## What I’m Working On
 - [Bike-Share Cyclist Analysis](https://github.com/sepide-m/bike_share_project.git)
 - [Bellabeat Smart Device Usage With R](https://github.com/sepide-m/bellabeat-with-R.git)
-- Google Fiber Call Center Optimization
 - [Traffic Volume Analysis](https://github.com/sepide-m/Trafic-Factors.git)
+- Google Fiber Call Center Optimization
+
 
 ## Tools & Skills
 - **Languages**: SQL, R, Python
