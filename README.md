@@ -2,7 +2,7 @@
 
 I'm a rookie data analyst passionate about turning raw data into actionable insights. I'm currently building a portfolio of real-world case studies in business intelligence, digital marketing, and healthcare.
 
-## What I’m Working On
+## What I Worked On
 - [Bike-Share Cyclist Analysis](https://github.com/sepide-m/bike_share_project.git)
 - [Bellabeat Smart Device Usage With R](https://github.com/sepide-m/bellabeat-with-R.git)
 - [Traffic Volume Analysis](https://github.com/sepide-m/Trafic-Factors.git)
