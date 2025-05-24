@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sepide-mosfeghi
+# 👋 Hi, I'm Sepide mosfeghi
 
 I'm a rookie data analyst passionate about turning raw data into actionable insights. I'm currently building a portfolio of real-world case studies in business intelligence, digital marketing, and healthcare.
 
