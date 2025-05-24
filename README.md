@@ -22,4 +22,4 @@ I'm a rookie data analyst passionate about turning raw data into actionable insi
 
 ## 📫 Let’s Connect
 - [Kaggle](https://www.kaggle.com/sepidehmoshfeghi)
-- [LinkedIn](www.linkedin.com/in/sepide-moshfeghi)
+- [LinkedIn](https://www.linkedin.com/in/sepide-moshfeghi)
