@@ -6,6 +6,7 @@ I'm a rookie data analyst passionate about turning raw data into actionable insi
 - [Bike-Share Cyclist Analysis](https://github.com/sepide-m/bike_share_project.git)
 - [Bellabeat Smart Device Usage With R](https://github.com/sepide-m/bellabeat-with-R.git)
 - [Traffic Volume Analysis](https://github.com/sepide-m/Trafic-Factors.git)
+- [Superstore Sales Dashboard with Tableau](https://github.com/sepide-m/Superstore-Sales-Dashboard-Tableau-Project.git)
 - Google Fiber Call Center Optimization
 
 
